@@ -1,0 +1,30 @@
+{
+  "id": "map_001",
+  "title": "Test Melody Twinkle Twinkle",
+  "author_id": "user_018",
+
+  "settings": {
+    "difficulty level": "easy",
+    "key_signature": "C major",
+    "time_signature": "4/4"
+  },
+
+  "score": [
+    "1",
+    "1",
+    "8",
+    "8",
+
+    "10",
+    "10",
+    "8*",
+
+    "6",
+    "6",
+    "5",
+    "5",
+    "3",
+    "3",
+    "1*"
+  ]
+}
