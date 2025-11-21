@@ -27,8 +27,12 @@
     "3",
     "3",
     "1*"
-  ]
-},
+   ],
+   "visits_total": 456,
+    "rating": { "average": 4.9, "votes": 231 },
+    "date_created": "2025-08-14",
+    "last_update": "2025-11-18"
+  },
   {
     "id": "map_002",
     "title": "Mary Had a Little Lamb",
@@ -38,12 +42,16 @@
       "key_signature": "C major",
       "time_signature": "4/4"
     },
-    "score": [
-      "5", "3", "1",
-      "3", "5", "5", "5*",
-      "3", "3", "3*",
-      "5", "8", "8*"
-    ]
+    "score": ["5","3","1","3","5","5","5*","3","3","3*","5","8","8*"],
+    "top_players": [
+      { "user_id": "user_008", "accuracy": 97 },
+      { "user_id": "user_017", "accuracy": 94 },
+      { "user_id": "user_002", "accuracy": 92 }
+    ],
+    "visits_total": 1284,
+    "rating": { "average": 4.7, "votes": 230 },
+    "date_created": "2024-08-14",
+    "last_update": "2024-12-01"
   },
   {
     "id": "map_003",
@@ -54,10 +62,16 @@
       "key_signature": "C major",
       "time_signature": "3/4"
     },
-    "score": [
-      "1", "1", "3",
-      "1", "6", "5*"
-    ]
+    "score": ["1","1","3","1","6","5*"],
+    "top_players": [
+      { "user_id": "user_007", "accuracy": 100 },
+      { "user_id": "user_014", "accuracy": 99 },
+      { "user_id": "user_019", "accuracy": 98 }
+    ],
+    "visits_total": 2094,
+    "rating": { "average": 4.9, "votes": 310 },
+    "date_created": "2024-05-03",
+    "last_update": "2025-01-10"
   },
   {
     "id": "map_004",
@@ -68,12 +82,16 @@
       "key_signature": "C major",
       "time_signature": "4/4"
     },
-    "score": [
-      "3", "3", "4", "5",
-      "5", "4", "3", "1",
-      "1", "2", "3*", 
-      "3", "2", "2*"
-    ]
+    "score": ["3","3","4","5","5","4","3","1","1","2","3*","3","2","2*"],
+    "top_players": [
+      { "user_id": "user_003", "accuracy": 96 },
+      { "user_id": "user_012", "accuracy": 94 },
+      { "user_id": "user_015", "accuracy": 93 }
+    ],
+    "visits_total": 1837,
+    "rating": { "average": 4.8, "votes": 275 },
+    "date_created": "2023-11-28",
+    "last_update": "2024-10-02"
   },
   {
     "id": "map_005",
@@ -84,10 +102,139 @@
       "key_signature": "G major",
       "time_signature": "4/4"
     },
+    "score": ["8","8","8","8","8","8","8","10","6","7","8*"],
+    "top_players": [
+      { "user_id": "user_014", "accuracy": 98 },
+      { "user_id": "user_002", "accuracy": 97 },
+      { "user_id": "user_006", "accuracy": 96 }
+    ],
+    "visits_total": 1541,
+    "rating": { "average": 4.6, "votes": 190 },
+    "date_created": "2024-12-01",
+    "last_update": "2025-01-22"
+  },
+  {
+    "id": "map_006",
+    "title": "Old McDonald Had a Farm",
+    "author_id": "user_003",
+    "settings": {
+      "difficulty_level": "easy",
+      "key_signature": "C major",
+      "time_signature": "4/4"
+    },
+    "score": ["1","1","1*","5","5","5*","6","6","5","5","3","3","1*"],
+    "top_players": [
+      { "user_id": "user_004", "accuracy": 95 },
+      { "user_id": "user_009", "accuracy": 92 },
+      { "user_id": "user_018", "accuracy": 91 }
+    ],
+    "visits_total": 1120,
+    "rating": { "average": 4.5, "votes": 150 },
+    "date_created": "2024-03-10",
+    "last_update": "2024-09-14"
+  },
+  {
+    "id": "map_007",
+    "title": "Little Star (Simplified Classic)",
+    "author_id": "user_002",
+    "settings": {
+      "difficulty_level": "easy",
+      "key_signature": "C major",
+      "time_signature": "4/4"
+    },
+    "score": ["1","1","8","8","10","10","8*"],
+    "top_players": [
+      { "user_id": "user_011", "accuracy": 99 },
+      { "user_id": "user_008", "accuracy": 98 },
+      { "user_id": "user_017", "accuracy": 96 }
+    ],
+    "visits_total": 980,
+    "rating": { "average": 4.7, "votes": 143 },
+    "date_created": "2023-12-15",
+    "last_update": "2024-06-01"
+  },
+  {
+    "id": "map_008",
+    "title": "London Bridge",
+    "author_id": "user_010",
+    "settings": {
+      "difficulty_level": "easy",
+      "key_signature": "F major",
+      "time_signature": "4/4"
+    },
+    "score": ["6","5","4","5","6","6","6*","5","5","5*","6","8","8*"],
+    "top_players": [
+      { "user_id": "user_001", "accuracy": 96 },
+      { "user_id": "user_005", "accuracy": 93 },
+      { "user_id": "user_015", "accuracy": 91 }
+    ],
+    "visits_total": 1470,
+    "rating": { "average": 4.4, "votes": 180 },
+    "date_created": "2024-01-19",
+    "last_update": "2024-11-03"
+  },
+  {
+    "id": "map_009",
+    "title": "Row Row Row Your Boat",
+    "author_id": "user_013",
+    "settings": {
+      "difficulty_level": "easy",
+      "key_signature": "C major",
+      "time_signature": "4/4"
+    },
+    "score": ["1","1","1*","3","5*","5","3*","5","6","8*","1**"],
+    "top_players": [
+      { "user_id": "user_020", "accuracy": 100 },
+      { "user_id": "user_011", "accuracy": 98 },
+      { "user_id": "user_004", "accuracy": 95 }
+    ],
+    "visits_total": 1680,
+    "rating": { "average": 4.8, "votes": 260 },
+    "date_created": "2024-04-22",
+    "last_update": "2025-02-02"
+  },
+  {
+    "id": "map_010",
+    "title": "Baa Baa Black Sheep",
+    "author_id": "user_009",
+    "settings": {
+      "difficulty_level": "easy",
+      "key_signature": "G major",
+      "time_signature": "4/4"
+    },
     "score": [
-      "8", "8", "8",
-      "8", "8", "8",
-      "8", "10", "6", "7", "8*"
-    ]
+      "8","8","8","10","10","10",
+      "12","12","10*","8","8","8",
+      "10","10","10","12","12","10*"
+    ],
+    "top_players": [
+      { "user_id": "user_006", "accuracy": 97 },
+      { "user_id": "user_018", "accuracy": 96 },
+      { "user_id": "user_012", "accuracy": 93 }
+    ],
+    "visits_total": 1421,
+    "rating": { "average": 4.6, "votes": 205 },
+    "date_created": "2023-10-05",
+    "last_update": "2024-08-29"
+  },
+  {
+    "id": "map_011",
+    "title": "Are You Sleeping",
+    "author_id": "user_001",
+    "settings": {
+      "difficulty_level": "easy",
+      "key_signature": "C major",
+      "time_signature": "4/4"
+    },
+    "score": ["1","3","5","1*","1","3","5","1*","5","6","8*","5","6","8*"],
+    "top_players": [
+      { "user_id": "user_014", "accuracy": 99 },
+      { "user_id": "user_003", "accuracy": 97 },
+      { "user_id": "user_016", "accuracy": 96 }
+    ],
+    "visits_total": 1193,
+    "rating": { "average": 4.7, "votes": 175 },
+    "date_created": "2024-02-07",
+    "last_update": "2024-10-19"
   }
 ]
